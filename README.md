@@ -2,7 +2,6 @@
 Algoritmos para resolver juegos simples o antiguos, como el Tic Tac Toe, etc.
 
 # Índice
-- [game_algorithms](#game_algorithms)
 - [chopsticks](#chopsticks)
 - [tic_tac_toe_bot_algorithm](#tic_tac_toe_bot_algorithm)
 - [torres_de_hanoi_bot_algorithm](#torres_de_hanoi_bot_algorithm)
